@@ -1,0 +1,9 @@
+ {
+    "tokenCreate": {
+      "token": "somerandomtoken",
+      "user": {
+        "email": "akbarykhan@gmail.com"
+      },
+      "errors": []
+    }
+  }
